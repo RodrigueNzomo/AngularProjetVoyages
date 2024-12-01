@@ -1,0 +1,4 @@
+[
+  { "id": 1, "destination": "Paris", "prix": 500 },
+  { "id": 2, "destination": "Londres", "prix": 400 }
+]
