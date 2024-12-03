@@ -7,7 +7,7 @@ const mongoose = require("mongoose"); // Bibliothèque MongoDB pour Node.js
 const app = express();
 
 // Configuration du port
-const PORT = process.env.PORT || 4000;
+const PORT = process.env.PORT || 5000;
 
 // Middleware pour analyser les requêtes JSON
 app.use(express.json());
